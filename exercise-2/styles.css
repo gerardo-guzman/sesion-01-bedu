@@ -1,0 +1,18 @@
+h1 {
+    color: royalblue;
+    font-size: 4rem;
+}
+
+body {
+    background-color: rgb(205, 225, 255);
+}
+
+.image {
+    max-width: 400px;
+    margin: 2rem;
+}
+
+#parrafo {
+    color: gray;
+    font-size: 1.6rem;
+}
